@@ -62,7 +62,7 @@ END
 
 #### Manual Calculations
 
-(Add your calculation here)
+<img width="1600" height="1200" alt="image" src="https://github.com/user-attachments/assets/fceaad9d-1665-4b4f-b322-bc8f5783585d" />
 
 ---
 
@@ -113,7 +113,7 @@ END
 
 #### Manual Calculations
 
-(Add your calculation here)
+<img width="1600" height="1002" alt="image" src="https://github.com/user-attachments/assets/3a7ab88f-891d-4b80-9326-e71ad0553391" />
 
 ---
 
@@ -162,7 +162,7 @@ END
 
 #### Manual Calculations
 
-(Add your calculation here)
+<img width="1200" height="1600" alt="image" src="https://github.com/user-attachments/assets/a10b8a81-d043-4c04-a5ee-96e3ca578328" />
 
 ---
 
@@ -205,16 +205,43 @@ END
 | ----------------------- | ------------------------ |
 |                         |                          |
 
-#### Manual Calculations
 
-(Add your calculation here)
+#### OUTPUT 
+
+<img width="252" height="342" alt="image" src="https://github.com/user-attachments/assets/a8474d62-a3b2-449c-af27-00021bcbdf6b" />
+
+
+ADDITION
+
+<img width="640" height="413" alt="Screenshot 2026-10-22 110121" src="https://github.com/user-attachments/assets/eaa8dc5e-d01b-4246-a756-9cf5534128c7" />
+
+
+
+SUBTRACTION
+
+<img width="637" height="417" alt="Screenshot 2026-10-22 110340" src="https://github.com/user-attachments/assets/de561dce-a20f-4598-9172-6768cf26d632" />
+
+
+
+MULTIPLICATION
+
+<img width="636" height="411" alt="Screenshot 2026-10-22 110613" src="https://github.com/user-attachments/assets/d91d9652-2bdf-4c49-a1e3-1ab36b351af1" />
+
+
+DIVISON
+
+<img width="796" height="472" alt="multiplication_output (1)" src="https://github.com/user-attachments/assets/dd822ce0-cf79-482b-9b03-2641d3d5eb9a" />
+
+
+
 
 ---
-## OUTPUT FROM MASM SOFTWARE
+## CALCULATIONS
+
+<img width="252" height="342" alt="image" src="https://github.com/user-attachments/assets/6ae94378-bea9-4a2c-9058-e670f8985ca1" />
 
 
 
 ## RESULT
 
 Thus, the Assembly Language Programs for 8086 to perform arithmetic operations (Addition, Subtraction, Multiplication, and Division) using both direct and indirect methods were successfully written and executed using MASM.
-
